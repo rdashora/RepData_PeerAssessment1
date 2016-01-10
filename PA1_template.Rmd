@@ -8,6 +8,7 @@ output:
 ---
 
 ## Loading and preprocessing the data
+
 echo = TRUE
 
 ``` {r PreProcess}
